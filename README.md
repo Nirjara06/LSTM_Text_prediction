@@ -244,7 +244,7 @@ Due to GitHub file size limits (25MB), the model is hosted on Google Drive:
 
 Run the full pipeline directly in Google Colab:
 
-- [Open in Google Colab](https://colab.research.google.com/drive/1c7P9074bjKPzbEzrT-JE2gpPxB41-ZQE#scrollTo=voWCzFm0yaMd)
+- [Open in Google Colab](https://colab.research.google.com/drive/1c7P9074bjKPzbEzrT-JE2gpPxB41-ZQE?usp=sharing)
 
 ---
 
